@@ -1,0 +1,4 @@
+#Install pandas windows
+pip install pandas
+#ver informacion de datagframe 
+pd.DataFrame.info()
